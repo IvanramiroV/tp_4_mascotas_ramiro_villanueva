@@ -1,0 +1,1 @@
+console.log("Aplicación web de mascotas en adopción inicializada correctamente.");

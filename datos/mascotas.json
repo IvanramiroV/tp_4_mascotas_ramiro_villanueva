@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "nombre": "Simba",
+    "especie": "Perro",
+    "edad": 3,
+    "descripcion": "Cachorro energético y muy amigable, le encanta correr en espacios abiertos.",
+    "estado": "En adopción",
+    "imagen": "/img/mascota.svg"
+  },
+  {
+    "id": 2,
+    "nombre": "Luna",
+    "especie": "Gato",
+    "edad": 2,
+    "descripcion": "Gata tranquila y cariñosa, ideal para departamentos.",
+    "estado": "Reservada",
+    "imagen": "/img/mascota.svg"
+  },
+  {
+    "id": 3,
+    "nombre": "Rocky",
+    "especie": "Perro",
+    "edad": 5,
+    "descripcion": "Perro guardián muy noble, educado y protector con la familia.",
+    "estado": "En adopción",
+    "imagen": "/img/mascota.svg"
+  },
+  {
+    "id": 4,
+    "nombre": "Mila",
+    "especie": "Gato",
+    "edad": 1,
+    "descripcion": "Muy juguetona y curiosa, se lleva bien con otros felinos.",
+    "estado": "Adoptada",
+    "imagen": "/img/mascota.svg"
+  },
+  {
+    "id": 5,
+    "nombre": "Bruno",
+    "especie": "Perro",
+    "edad": 4,
+    "descripcion": "Muy obediente, le gusta pasear y aprender trucos nuevos.",
+    "estado": "En adopción",
+    "imagen": "/img/mascota.svg"
+  }
+]
